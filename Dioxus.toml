@@ -1,0 +1,23 @@
+[application]
+
+[web.app]
+title = "adif-editor-web"
+base_path = "adif-editor-web"
+
+# HTML title tag content
+title = "adif-editor-web"
+
+# include `assets` in web platform
+[web.resource]
+
+# Additional CSS style files
+style = []
+
+# Additional JavaScript files
+script = []
+
+[web.resource.dev]
+
+# Javascript code file
+# serve: [dev-server] only
+script = []
