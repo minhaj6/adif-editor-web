@@ -104,12 +104,12 @@ button {
 
 .drop-zone,
 .upload-sidecar {
-    min-height: 180px;
+    min-height: 100px;
     border-radius: 18px;
 }
 
 .drop-zone {
-    padding: 26px;
+    padding: 10px;
     border: 1.5px dashed var(--border-strong);
     background: linear-gradient(180deg, rgba(26, 39, 53, 0.95), rgba(12, 21, 31, 0.95));
     text-align: center;

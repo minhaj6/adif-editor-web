@@ -147,10 +147,10 @@ fn App() -> Element {
                 resize_state.set(None);
             },
             section { class: "hero",
-                p { class: "eyebrow", "ADIF Editor" }
-                h3 { "Edit ADIF logs in a spreadsheet-style grid built for fast cleanup." }
+                p { class: "eyebrow", "KQ4VPZ's ADIF Editor" }
+                h3 { "Edit ADIF logs in a spreadsheet-like web-editor." }
                 p { class: "lede",
-                    "Inspired by legendary tools like adif-master, but not limited to the microslop platform."
+                    "Inspired by legendary tool adif-master, but not limited to the microslop platform."
                 }
             }
 
